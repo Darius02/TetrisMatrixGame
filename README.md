@@ -19,4 +19,4 @@ The purpose of the Tetris game is to destroy the rows of blocks before any of it
 
 Picture of the setup:
 
-![IMG_0164](https://user-images.githubusercontent.com/75308520/206288721-2aadf210-910b-45cf-bbb0-d40e47772470.jpg)
+![IMG_0158](https://user-images.githubusercontent.com/75308520/208770593-920ab2e6-53b3-48e5-b8d0-a9f42c775be5.jpg)
